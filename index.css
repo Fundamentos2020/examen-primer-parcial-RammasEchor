@@ -1,0 +1,63 @@
+*   {
+    border : 2px solid black ;
+}
+
+img {
+    display: block ;
+}
+
+#uaslp_logo {
+    position: absolute ;
+    left : 0px ;
+    top : 0px ;
+}
+
+#ingenieria_logo    {
+    position: absolute ;
+    right: 0px ;
+    top: 0px ;
+}
+
+#caja_azul  {
+    padding: 115px ;
+    margin: 0px ;
+    left: 0px ;
+    right: 0px ;
+}
+
+#menu   {
+    position: absolute ;
+    right: 0px ;
+    left: 0px ;
+    top: 250px ;
+    display: inline-block ;
+}
+
+#m1  {
+    display: inline-block ;
+}
+
+#m2  {
+    display: inline-block ;
+}
+
+#m3  {
+    display: inline-block ;
+}
+
+#texto {
+    position: absolute ;
+    top : 350px ;
+    left: 0px ;
+    right: 0px ;
+}
+
+h1  {
+    
+    text-align: center ;
+}
+
+t1  {
+    position: absolute ;
+    top: 400px ;
+}
